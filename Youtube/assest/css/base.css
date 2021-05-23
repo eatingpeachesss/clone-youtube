@@ -1,0 +1,30 @@
+:root{
+    --gray-primary:#787878;
+    --white: white;
+    --width-search:498px;
+    --font-color:#030303;
+    --color-active:#ff0000;
+    --catalof-active:#e5e5e5;
+    --font-color-catalog:#939393;
+    --width-search-tablet:150px;
+    --width-search-ipad-pro: 300px;
+    --header-height:56px;
+}
+/* .homePage{
+    overflow: hidden;
+} */
+*{
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+}
+html{
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: 'Roboto' , sans-serif ;
+    overflow-x: hidden;
+    
+}
+#videos{
+    background-color: #f9f9f9;
+}
